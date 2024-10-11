@@ -9,10 +9,6 @@ This project focuses on predicting the ideological positions of U.S. Congression
 - [Modeling Approach](#modeling-approach)
 - [Optimization](#optimization)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The goal of this project is to accurately predict the political alignment of U.S. Congress members based on their tweet data. The model uses a combination of text preprocessing techniques, feature engineering, and machine learning algorithms to predict two ideological dimensions from the tweets.
